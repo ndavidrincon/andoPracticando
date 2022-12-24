@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+* {
+    font-size: 62.5%;
+}
+.header{
+    display: flex;
+    background-color: wheat;
+}
+h1, ul{
+    font-size: 3rem;
+    width: 50vw;
+    align-items: center;
+}
+h1 {
+    display: flex;
+    margin-left: 2rem;
+}
